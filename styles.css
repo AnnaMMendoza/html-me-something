@@ -1,0 +1,33 @@
+html {
+	background: #b3cbff;
+	margin: 30px;
+}
+header {
+	text-align: center;
+	font-family: Georgia;
+}
+div main h3 {
+	font-family: Arial;
+	padding-left: 80px;
+}
+p {
+	font-family: Georgia;
+	padding: 10px;
+}
+div article h3 {
+	font-family: Arial;
+}
+div article p {
+	padding: 20px 50px 0px 50px; 
+}
+#bagtroubles2 h3 {
+	font-family: Arial;
+	padding-top: 40px;
+	padding-left: 80px;
+}
+p {
+	margin: 10px 75px;
+}
+.images {
+	text-align: center;
+}
